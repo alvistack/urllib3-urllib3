@@ -1,0 +1,5 @@
+python-urllib3 (100:1.26.16-1) UNRELEASED; urgency=medium
+
+  * https://github.com/urllib3/urllib3/releases/tag/1.26.16
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Sun, 09 Jul 2023 09:38:56 +0800

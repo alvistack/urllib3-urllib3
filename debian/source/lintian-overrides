@@ -1,0 +1,4 @@
+python-urllib3 source: file-without-copyright-information
+python-urllib3 source: no-debian-changes
+python-urllib3 source: source-contains-prebuilt-windows-binary
+python-urllib3 source: source-package-encodes-python-version
